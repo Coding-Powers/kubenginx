@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-deploy-55
+  name: nginx-deploy-testing-100
   labels:
     app: nginx
 spec:
